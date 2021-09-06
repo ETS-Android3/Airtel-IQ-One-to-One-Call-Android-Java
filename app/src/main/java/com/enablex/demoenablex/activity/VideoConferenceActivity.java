@@ -34,15 +34,14 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
-import enx_rtc_android.Controller.EnxActiveTalkerViewObserver;
-import enx_rtc_android.Controller.EnxPlayerView;
-import enx_rtc_android.Controller.EnxReconnectObserver;
-import enx_rtc_android.Controller.EnxRoom;
-import enx_rtc_android.Controller.EnxRoomObserver;
-import enx_rtc_android.Controller.EnxRtc;
-import enx_rtc_android.Controller.EnxStream;
-import enx_rtc_android.Controller.EnxStreamObserver;
-
+import videoiq_android.Controller.EnxActiveTalkerViewObserver;
+import videoiq_android.Controller.EnxPlayerView;
+import videoiq_android.Controller.EnxReconnectObserver;
+import videoiq_android.Controller.EnxRoom;
+import videoiq_android.Controller.EnxRoomObserver;
+import videoiq_android.Controller.EnxRtc;
+import videoiq_android.Controller.EnxStream;
+import videoiq_android.Controller.EnxStreamObserver;
 
 public class VideoConferenceActivity extends AppCompatActivity
         implements EnxRoomObserver, EnxStreamObserver, View.OnClickListener, EnxReconnectObserver, EnxActiveTalkerViewObserver {
