@@ -25,7 +25,7 @@ The sample application demonstrates the following advance features along with ba
 
 Follow the steps given below to generate API Credentials required to access Airtel IQ: 
 
-* [Create a free account on Airtel IQ](	https://portal.videoiq.airtel.in/cpaas/trial-sign-up/)  
+* [Login to your account on Airtel IQ](	https://cpaasportal.videoiq.airtel.in/)  
 * Create your Project 
 * Get the App ID and App Key generated against the Project. 
 
